@@ -1,0 +1,1 @@
+# hopeChain-wallet
